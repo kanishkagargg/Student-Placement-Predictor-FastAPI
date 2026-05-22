@@ -9,11 +9,11 @@ The application predicts a student's placement or performance category using stu
 ## Tech stack
 
 - Python
-- FastAPI for the REST API layer
+- FastAPI for the API layer
 - Streamlit for the frontend user interface
 - Pydantic for input validation and feature engineering
 - Pickle for serialized model loading
-- scikit-learn / CatBoost-compatible model inference
+- scikit-learn / RandomForestClassifier-compatible model inference
 - Requests for frontend API calls
 
 ## Architecture & separation of concerns
