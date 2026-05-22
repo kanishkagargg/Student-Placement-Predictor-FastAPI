@@ -112,7 +112,7 @@ streamlit run frontend.py
 
 ## Demo
 
-A demo video is included in this repository:s
+A demo video is included in this repository:
 
 ![Demo](./Student%20Placement%20Prediction%20via%20FastAPI.gif)
 
