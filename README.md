@@ -112,11 +112,9 @@ streamlit run frontend.py
 
 ## Demo
 
-A demo video is included in this repository:
+A demo video is included in this repository:s
 
-- `Student Placement Prediction via FastAPI.mp4`
-
-Use this file to review a walkthrough of the app and how the FastAPI backend and Streamlit frontend interact.
+![Demo](./Student%20Placement%20Prediction%20via%20FastAPI.gif)
 
 ## Improvements and production considerations
 
